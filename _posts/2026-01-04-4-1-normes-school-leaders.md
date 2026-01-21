@@ -9,7 +9,7 @@ Tal i com destaquen al web d'Aixeca El Cap, *Jonathan Haidt* presenta [quatre no
 
 ## Les 4+1 normes fonamentals
 
-Són 5 normes per als School leaders:
+Són 4 normes per als School leaders:
 
 1. **No smartphones abans dels 14**
 2. **No social media abans dels 16**
@@ -24,4 +24,4 @@ Aquestes normes estan dissenyades per a protegir la salut mental i el benestar d
 
 Amb aquestes normes al cap sorgeixen diverses de les idees que presentem  al web [d'Idees Fixes](https://idees-fixes.github.io/idees-fixes/), com ara:
  - tornar a usar el telèfon fixe a les cases
- - muntar xarxes de Comerç Amic per a potenciar la autonomia dels infants (i reduir la dependència de telèfons mòbils)
+ - muntar xarxes de Comerç Amic per a potenciar l'autonomia dels infants (i reduir la dependència de telèfons mòbils)
