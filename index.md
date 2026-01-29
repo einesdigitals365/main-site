@@ -30,16 +30,25 @@ Un conjunt de manuals per a recuperar l'ús del telèfon fixe: material i passos
 
 &nbsp;
 
+# Reptes
+
+Els reptes d'Eines Digitals són activitats o jocs per a ajudar les famílies a reduir l'ús de pantalles i tecnologia digital. També poden servir per a que les families de la vostra AFA o barri participin i comparteixin experiències.
+
+ - Repte ["No Xarxes Socials"](./repte_no_xarxes_socials/): Un repte per a deixar d'usar xarxes socials durant un mes sencer.
+
+&nbsp;
+
+&nbsp;
+
 # Recursos
 
 Altres recursos relacionats amb Eines Digitals:
 
  - Llistat de [Comerç Amic](./llistat_comerc_amic/): Llistat detallat de municipis amb xarxes de Comerç Amic o Camí Escolar.
- - [Programació per a infants](./programacio-infants/): Recursos i eines per a que els infants aprenguin a programar de manera divertida i educativa.
+ - [Programació per a infants](./programacio_infants/): Recursos i eines per a que els infants aprenguin a programar de manera divertida i educativa.
+ - [Gestió del Temps de Pantalla](./gestio_temps_pantalla/): Guia d'eines i aplicacions per a monitoritzar i limitar l'ús de pantalles.
 
-Eines Digitals és un recurs més dins d'un ecosistema més ampli de projectes relacionats amb l'ús responsable de la tecnologia digital entre infants i joves. Aquí teniu alguns projectes similars que també us poden interessar:
-
- - [Projectes Similars](./projectes_similars/)
+  - Eines Digitals és un recurs més dins d'un ecosistema ampli de projectes relacionats amb l'ús responsable de pantalles. Aquí teniu alguns [Projectes Similars](./projectes_similars/)
 
 
 &nbsp;
