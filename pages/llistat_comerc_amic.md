@@ -20,7 +20,7 @@ Municipis amb propostes de Comerç Amic en diverses variants:
 
 Podeu aprendre els passos per a muntar una xarxa de Comerç Amic al vostre municipi a la pàgina d'[{{ site.microsite.ideesfixes.title }}]({{ site.microsite.ideesfixes.url }}).
 
-Per a afegir més municipis, si us plau, envieu un missatge a través de la [pàgina de contacte](./contacte).
+Per a afegir més municipis, si us plau, envieu un missatge a través de la [pàgina de contacte](/contacte).
 
 &nbsp;
 
