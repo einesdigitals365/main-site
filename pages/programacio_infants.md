@@ -16,28 +16,31 @@ Recursos i eines per a que els infants aprenguin a programar de manera divertida
  - [Coding Planets](https://play.google.com/store/apps/details?id=com.material.design.codingplanet&hl=en_US): Aplicació mòbil que ensenya programació a nens mitjançant jocs i activitats interactives.
  - [Alice](http://www.alice.org/): Entorn de programació 3D que permet als estudiants crear animacions, jocs i històries interactives mentre aprenen els conceptes bàsics de la programació.
 
-### Llenguatges
+<br/>
+<br/>
+
+## Llenguatges de Programació
 
 **LOGO**: un llenguatge de programació educatiu dissenyat per a nens, conegut pel seu ús de la "tortuga" per ensenyar conceptes de programació mitjançant gràfics. Un recurs excel·lent per a introduir els infants a la programació.
 
 [What is LOGO](https://ca.wikipedia.org/wiki/Llenguatge_de_programació_Logo) (Wikipedia):
 
-```
-LOGO fou el llenguatge de programació desenvolupat per Seymour Papert, Cynthia Solomon i Wally Feurzeig[1] el 1967 a Cambridge, [...
-]
-Mitjançant els gràfics de tortuga programats, els infants aprenien a programar i 
-fins i tot podien arribar de forma molt intuïtiva a utilitzar conceptes de programació
- avançada, com la recursivitat, el tractament (rudimentari) de llenguatge natural i 
- els processos d'inferència lògica.
-```
+> LOGO fou el llenguatge de programació desenvolupat per Seymour Papert, Cynthia 
+Solomon i Wally Feurzeig[1] el 1967 a Cambridge, [...]
+> Mitjançant els gràfics de tortuga programats, els infants aprenien a programar i fins i tot podien arribar de forma molt intuïtiva a utilitzar conceptes de programació avançada, com la recursivitat, el tractament (rudimentari) de llenguatge natural i els processos d'inferència lògica.
 
  - [ACSLogo per Mac](https://www.alancsmith.co.uk/logo/)
     - [Berkeley Logo](https://people.eecs.berkeley.edu/~bh/logo.html/) (for the HARD CORE)
 
+<br/>
+<br/>
+
 ## Llibres
 
-["Raising Young Coders: A Parent’s Guide to Teaching Programming at Home"](https://www.amazon.es/dp/B0DVBQZ483?ref=ppx_yo2ov_dt_b_fed_asin_title), CASSANDRA CHIN
+["Raising Young Coders: A Parent’s Guide to Teaching Programming at Home"](https://www.amazon.es/dp/B0DVBQZ483?ref=ppx_yo2ov_dt_b_fed_asin_title), _Cassandra Chin_
 
+<br/>
+<br/>
 
 ## Disseny i modelat 3D
 
@@ -51,9 +54,14 @@ Eines avançades:
 - [Blender](https://www.blender.org/)
 - [FreeCAD](https://www.freecad.org/)
 
+<br/>
+<br/>
 
 ### Estudis i articles
 
 1. [Patterns in Mainstream Programming Games](https://www.researchgate.net/publication/339979237_Patterns_in_Mainstream_Programming_Games)
 
 > Studies have found serious games to be good tools for programming education. As an outcome from such research, several game solutions for learning computer programming have appeared.
+
+<br/>
+<br/>

@@ -7,6 +7,9 @@ permalink: /repte_no_xarxes_socials/
 
 Inspirat en el repte d'[OFF-February](https://www.offm.org/off-february), aquest repte proposa a les famílies deixar d'usar xarxes socials durant un mes sencer. L'objectiu és ajudar a reduir la dependència de les pantalles i fomentar activitats alternatives més saludables.
 
+- **DURADA DEL REPTE:** 1 mes
+- **ÀMBIT:** Comunitari
+
 ## Com participar
 
 1. Trieu un mes per a realitzar el repte. Podeu començar en qualsevol moment de l'any. Si l'organitzeu al febrer, podeu unir-vos a l'OFF-February.
