@@ -35,7 +35,7 @@ Un conjunt de manuals per a recuperar l'ús del telèfon fixe: material i passos
 Els reptes d'Eines Digitals són activitats o jocs per a ajudar les famílies a reduir l'ús de pantalles i tecnologia digital. També poden servir per a que les families de la vostra AFA o barri participin i comparteixin experiències.
 
  - Repte ["No Xarxes Socials"](./repte_no_xarxes_socials/): Un repte per a deixar d'usar xarxes socials durant un mes sencer.
-
+ - Repte ["Parking de Telèfons"](./repte_phone_garage/): Un repte per a establir un lloc a casa on deixar els telèfons mòbils en arribar a casa.
 &nbsp;
 
 &nbsp;
