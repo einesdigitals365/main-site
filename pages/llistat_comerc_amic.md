@@ -16,7 +16,7 @@ Municipis amb propostes de Comerç Amic en diverses variants:
  - [Girona](https://web.girona.cat/mobilitatescolar/comercamic)
  - [Martorell](https://www.martorell.cat/caminsescolars)
  - Cardedeu
- - o fins i tot Barcelona que treballa en el projecte que [permetrà a infants i joves trucar des d'equipaments miunicipals](https://ajuntament.barcelona.cat/infancia/ca/noticia/els-comerços-amics-de-barcelona-esdevenen-espais-de-proteccio-i-seguretat-per-a-infants-i-joves_1086713)
+ - o fins i tot Barcelona que treballa en el projecte que [permetrà a infants i joves trucar des d'equipaments municipals](https://ajuntament.barcelona.cat/infancia/ca/noticia/els-comerços-amics-de-barcelona-esdevenen-espais-de-proteccio-i-seguretat-per-a-infants-i-joves_1086713)
 
 Podeu aprendre els passos per a muntar una xarxa de Comerç Amic al vostre municipi a la pàgina d'[{{ site.microsite.ideesfixes.title }}]({{ site.microsite.ideesfixes.url }}).
 
