@@ -31,3 +31,6 @@ El blog usa [Jekyll](https://jekyllrb.com/) i es desplega a GitHub Pages.
 wget --spider -o ~/wget.log -e robots=off  -r -p http://localhost:4000/
 grep -B 2 '404' ~/wget.log     
 ```
+
+
+ 
