@@ -53,7 +53,7 @@ Recursos que us poden ajudar a aconseguir alguns dels reptes i informació relac
 
 &nbsp;
 
- - Eines Digitals 365 és un recurs dins d'un ecosistema ampli de projectes relacionats amb l'ús responsable de pantalles. Aquí teniu alguns [Projectes Similars](./projectes_similars/)
+ Eines Digitals 365 és un recurs dins d'un ecosistema ampli de projectes relacionats amb l'ús responsable de pantalles. Aquí teniu alguns [Projectes Similars](./projectes_similars/)
 
 &nbsp;
 
