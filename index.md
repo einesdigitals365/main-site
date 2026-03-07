@@ -37,6 +37,7 @@ Els reptes d'Eines Digitals són activitats o jocs per a ajudar les famílies a 
  - Repte ["No Xarxes Socials"](./repte_no_xarxes_socials/): Un repte per a deixar d'usar xarxes socials durant un mes sencer.
  - Repte ["Parking de Telèfons"](./repte_phone_garage/): Un repte per a establir un lloc a casa on deixar els telèfons mòbils en arribar a casa.
  - Repte ["Nomophobia"](./repte_nomophobia/): Un repte per a combatre la dependència del telèfon mòbil.
+ - Repte ["No Pantalles a la Taula"](./repte_no_pantalles_a_taula/): Un repte per a establir la regla de no usar pantalles durant els àpats familiars.
 &nbsp;
 
 &nbsp;
