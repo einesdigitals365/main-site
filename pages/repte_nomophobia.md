@@ -20,3 +20,9 @@ El repte consisteix en sortir de casa sense el telèfon mòbil.
 1. Surt de casa sense el telèfon mòbil
 2. Repeteix el primer pas
 
+<br/>
+<br/>
+
+## Agraïments
+
+Agraïments a en Roger Ferrer de [L'assessoria 1Segon](https://1segon.cat/) de Sant Cugat per a presentar-nos el terme *nomphobia*.
