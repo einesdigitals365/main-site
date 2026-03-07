@@ -48,6 +48,7 @@ Altres recursos relacionats amb Eines Digitals:
  - Llistat de [Comerç Amic](./llistat_comerc_amic/): Llistat detallat de municipis amb xarxes de Comerç Amic o Camí Escolar.
  - [Programació per a infants](./programacio_infants/): Recursos i eines per a que els infants aprenguin a programar de manera divertida i educativa.
  - [Apps de Gestió del Temps de Pantalla](./gestio_temps_pantalla/): Guia d'eines i aplicacions per a monitoritzar i limitar l'ús de pantalles.
+ - Llistat de [dumb phones](./dumb_phones/): Llistat de telèfons mòbils amb funcionalitats limitades, ideals per a reduir la dependència dels smartphones.
 
  - Eines Digitals és un recurs més dins d'un ecosistema ampli de projectes relacionats amb l'ús responsable de pantalles. Aquí teniu alguns [Projectes Similars](./projectes_similars/)
 
