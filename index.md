@@ -12,14 +12,14 @@ L'objectiu és presentar jocs i recopilar informació pràctica per a reduir l'�
 
 Els reptes d'Eines Digitals són activitats o jocs per a ajudar les famílies a reduir l'ús de pantalles i tecnologia digital. També poden servir per a que les families de la vostra AFA o barri participin i comparteixin experiències.
 
- - Repte ["No Xarxes Socials"](./repte_no_xarxes_socials/): Un repte per a deixar d'usar xarxes socials durant un mes sencer.
- - Repte ["Parking de Telèfons"](./repte_phone_garage/): Un repte per a establir un lloc a casa on deixar els telèfons mòbils en arribar a casa.
- - Repte ["Nomophobia"](./repte_nomophobia/): Un repte per a combatre la dependència del telèfon mòbil.
  - Repte ["No Pantalles a la Taula"](./repte_no_pantalles_a_taula/): Un repte per a establir la regla de no usar pantalles durant els àpats familiars.
- - Repte ["28 d'abril a les fosques"](./repte_28_abril_a_les_fosques/): Un repte per a recordar la gran apagada del 28 d'abril de 2025.
  - Repte ["Un pas enrere"](./repte_un_pas_enrere/): Un repte per a deixar de fer amb el mòbil coses que es puguin fer de manera analògica.
-
-&nbsp;
+ - Repte ["OFF - No Xarxes Socials"](./repte_no_xarxes_socials/): Un repte per a deixar d'usar xarxes socials durant un mes sencer.
+ - Repte ["Parking de Telèfons"](./repte_phone_garage/): Un repte per a establir un lloc a casa on deixar els telèfons mòbils en arribar a casa.
+ - Repte ["28 d'abril a les fosques"](./repte_28_abril_a_les_fosques/): Un repte per a recordar la gran apagada del 28 d'abril de 2025.
+ - Repte ["Nomophobia"](./repte_nomophobia/): Un repte per a combatre la dependència del telèfon mòbil.
+ - Repte ["Torna el Fixe"](./repte_torna_el_fixe/): Un repte per a tornar a usar el telèfon fixe.
+ - Repte ["Muntar una Xarxa de Comerç Amic"](./repte_muntar_xarxa_comerc_amic/): El repte més complexe de tots. Aquest repte implica a diverses famílies i comerços del barri, i per això el presentem com un repte a part. És un bon repte per a començar a principi de curs de manera que es pugui assolir al llarg de diversos mesos.
 
 &nbsp;
 
@@ -33,7 +33,7 @@ Els _microsites_ són webs dedicades als reptes més populars o complexes. Els h
 <img src="{{ "/assets/img/logo1.svg" | relative_url }}" alt="" />
 </div>
 <div style="float:none;">
-Un microsite específic per als reptes de "Tornar a usar el Telèfon Fixe" i per al repte de "Muntar una Xarxa de Comerç Amic". Cada repte està presentat com un manual: material i passos a seguir.
+Un microsite específic per als reptes de "Torna el Fixe" i per al repte de "Muntar una Xarxa de Comerç Amic". Cada repte està presentat com un manual: material i passos a seguir.
 </div>
 
 &nbsp;
