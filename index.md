@@ -2,33 +2,11 @@
 layout: page
 ---
 
-Eines Digitals! és un web dedicat a recopilar i compartir recursos per a famílies que volen usar la tecnologia digital i els les pantalles de manera més pausada i raonable.
-L'objectiu és proporcionar informació pràctica per a reduir l'ús de tecnologia en entorns educatius i domèstics.
+Eines Digitals365 és un web dedicat a plantejar reptes per a famílies i col.lectius (p.ex. AFAs)que volen usar la tecnologia digital i els les pantalles de manera més pausada i raonable.
+L'objectiu és presentar jocs i recopilar informació pràctica per a reduir l'ús de tecnologia en entorns educatius i domèstics.
 
 &nbsp;
 
-El concepte de pantalles o de tecnologia digital abarca molts camps. Podem parlar de protecció de menors, psicologia infantil, educació digital, eines per a l'aprenentatge, seguretat online, programació, videojocs, recursos gratuïts i de codi obert, etc. Al web d'Eines Digitals volem ajudar-vos a trobar recursos i aprendre més de pressa sob re alguns d'aquests camps.
-
-
-
-&nbsp;
-
-# Microsites
-
-Els _microsites_ són projectes relacionats amb Eines Digitals que tenen el seu propi web i objectiu específic.
-
-### [{{ site.microsite.xarxafixa.title }}]({{ site.microsite.xarxafixa.url }})
-
-<div style="float:left;">
-<img src="{{ "/assets/img/logo1.svg" | relative_url }}" alt="" />
-</div>
-<div style="float:none;">
-Un conjunt de manuals per a recuperar l'ús del telèfon fixe: material i passos a seguir per a muntar una xarxa de Comerç Amic al vostre barri o poble, o per a recuperar l'ús del telèfon fixe a casa.
-</div>
-
-&nbsp;
-
-&nbsp;
 
 # Reptes
 
@@ -40,21 +18,42 @@ Els reptes d'Eines Digitals són activitats o jocs per a ajudar les famílies a 
  - Repte ["No Pantalles a la Taula"](./repte_no_pantalles_a_taula/): Un repte per a establir la regla de no usar pantalles durant els àpats familiars.
  - Repte ["28 d'abril a les fosques"](./repte_28_abril_a_les_fosques/): Un repte per a recordar la gran apagada del 28 d'abril de 2025.
  - Repte ["Un pas enrere"](./repte_un_pas_enrere/): Un repte per a deixar de fer amb el mòbil coses que es puguin fer de manera analògica.
+
+&nbsp;
+
+&nbsp;
+
+# Microsites
+
+Els _microsites_ són webs dedicades als reptes més populars o complexes. Els hem creat una web específica per a que puguin créixer de manera independent i per a que els pogueu compartir més fàcilment.
+
+### [{{ site.microsite.xarxafixa.title }}]({{ site.microsite.xarxafixa.url }})
+
+<div style="float:left;">
+<img src="{{ "/assets/img/logo1.svg" | relative_url }}" alt="" />
+</div>
+<div style="float:none;">
+Un microsite específic per als reptes de "Tornar a usar el Telèfon Fixe" i per al repte de "Muntar una Xarxa de Comerç Amic". Cada repte està presentat com un manual: material i passos a seguir.
+</div>
+
 &nbsp;
 
 &nbsp;
 
-# Recursos
+# Altres Recursos
 
-Altres recursos relacionats amb Eines Digitals:
+El concepte de pantalles o de tecnologia digital abarca molts camps. Podem parlar de protecció de menors, psicologia infantil, privacitat, programació, videojocs, recursos gratuïts i de codi obert, etc. Al web d'Eines Digitals 365 volem ajudar-vos a trobar recursos i aprendre més de pressa sobre alguns d'aquests camps.
 
- - Llistat de [Comerç Amic](./llistat_comerc_amic/): Llistat detallat de municipis amb xarxes de Comerç Amic o Camí Escolar.
- - [Programació per a infants](./programacio_infants/): Recursos i eines per a que els infants aprenguin a programar de manera divertida i educativa.
+Recursos que us poden ajudar a aconseguir alguns dels reptes i informació relacionada amb l'ús conscient de la tecnologia digital:
+
  - [Apps de Gestió del Temps de Pantalla](./gestio_temps_pantalla/): Guia d'eines i aplicacions per a monitoritzar i limitar l'ús de pantalles.
  - Llistat de [dumb phones](./dumb_phones/): Llistat de telèfons mòbils amb funcionalitats limitades, ideals per a reduir la dependència dels smartphones.
+ - Llistat de [Comerç Amic](./llistat_comerc_amic/): Llistat detallat de municipis amb xarxes de Comerç Amic o Camí Escolar.
+ - [Programació per a infants](./programacio_infants/): Recursos i eines per a que els infants aprenguin a programar de manera divertida i educativa.
 
- - Eines Digitals és un recurs més dins d'un ecosistema ampli de projectes relacionats amb l'ús responsable de pantalles. Aquí teniu alguns [Projectes Similars](./projectes_similars/)
+&nbsp;
 
+ - Eines Digitals 365 és un recurs dins d'un ecosistema ampli de projectes relacionats amb l'ús responsable de pantalles. Aquí teniu alguns [Projectes Similars](./projectes_similars/)
 
 &nbsp;
 
