@@ -39,6 +39,7 @@ Els reptes d'Eines Digitals són activitats o jocs per a ajudar les famílies a 
  - Repte ["Nomophobia"](./repte_nomophobia/): Un repte per a combatre la dependència del telèfon mòbil.
  - Repte ["No Pantalles a la Taula"](./repte_no_pantalles_a_taula/): Un repte per a establir la regla de no usar pantalles durant els àpats familiars.
  - Repte ["28 d'abril a les fosques"](./repte_28_abril_a_les_fosques/): Un repte per a recordar la gran apagada del 28 d'abril de 2025.
+ - Repte ["Un pas enrere"](./repte_un_pas_enrere/): Un repte per a deixar de fer amb el mòbil coses que es puguin fer de manera analògica.
 &nbsp;
 
 &nbsp;
