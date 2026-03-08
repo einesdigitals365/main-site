@@ -2,8 +2,8 @@
 layout: page
 ---
 
-Eines Digitals365 és un web dedicat a plantejar reptes per a famílies i col.lectius (p.ex. AFAs)que volen usar la tecnologia digital i els les pantalles de manera més pausada i raonable.
-L'objectiu és presentar jocs i recopilar informació pràctica per a reduir l'ús de tecnologia en entorns educatius i domèstics.
+Eines Digitals365 és un web dedicat a plantejar reptes per a famílies i col.lectius (p.ex. AFAs) que volen usar la tecnologia digital i les pantalles de manera més pausada i raonable.
+Presentem jocs i recopilemn informació pràctica per a reduir l'ús de tecnologia. 
 
 &nbsp;
 
