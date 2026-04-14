@@ -17,6 +17,7 @@ Municipis amb propostes de Comerç Amic en diverses variants:
  - [Martorell](https://www.martorell.cat/caminsescolars)
  - Cardedeu
  - o fins i tot Barcelona que treballa en el projecte que [permetrà a infants i joves trucar des d'equipaments municipals](https://ajuntament.barcelona.cat/infancia/ca/noticia/els-comerços-amics-de-barcelona-esdevenen-espais-de-proteccio-i-seguretat-per-a-infants-i-joves_1086713)
+ - [LLinars del Vallès](https://www.instagram.com/reel/DW3quHRjSvk/)
 
 Podeu aprendre els passos per a muntar una xarxa de Comerç Amic al vostre municipi a [{{ site.microsite.xarxafixa.title }}]({{ site.microsite.xarxafixa.url }}).
 
