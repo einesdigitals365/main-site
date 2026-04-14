@@ -33,6 +33,7 @@ Altxa Burua (al País Basc) és un grup de [pares i mares del País Basc](https:
  - [Lezo](https://www.ondavasca.com/lezo-se-une-a-la-campana-altxa-burua-para-retrasar-la-edad-de-acceso-al-movil/)
  - [San Sebastián](https://cadenaser.com/euskadi/2025/05/26/450-comercios-de-san-sebastian-ofrecen-su-telefono-a-jovenes-para-reducir-el-uso-del-movil-radio-san-sebastian/)
  - [Trapagaran](https://www.entrapagaran.com/articulo/actualidad/trapagaran-creara-red-comercios-seguros-donde-ninos-podran-llamar/20251203091507015158.amp.html)
+ - [Boadilla del Monte](https://www.instagram.com/reel/DWyXHOhCm2w/)
 
 I el model s'extén també per la resta del país:
 
