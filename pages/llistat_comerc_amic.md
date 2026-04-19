@@ -18,6 +18,8 @@ Municipis amb propostes de Comerç Amic en diverses variants:
  - Cardedeu
  - [Barcelona](https://ajuntament.barcelona.cat/eixample/ca/noticies/servei-gratuit-de-trucades-per-a-infants-i-adolescents-als-equipaments-municipals-1622487?utm_content=C8429-I7&utm_source=ecoms&utm_medium=email&utm_term=2%20not%C3%ADcies%20verticals%20El%20Digital%20%28Nou%20Format%29-contingut)
  - [Llinars del Vallès](https://www.instagram.com/reel/DW3quHRjSvk/)
+ - [Sqnt Cugat del Vallès](https://www.cugat.cat/noticies/sant-cugat-impulsa-una-xarxa-de-comerc-amic-perque-els-infants-puguin-trucar-en-cas-de-necessitat/)
+
 
 Podeu aprendre els passos per a muntar una xarxa de Comerç Amic al vostre municipi a [{{ site.microsite.xarxafixa.title }}]({{ site.microsite.xarxafixa.url }}).
 
