@@ -34,3 +34,8 @@ Degut a la gran dependència que tenim del telèfon mòbil, sortir de casa sense
 ## Agraïments
 
 Agraïments a en Roger Ferrer de [L'assessoria 1Segon](https://1segon.cat/) de Sant Cugat per a presentar-nos el terme *nomphobia*.
+
+
+<br/><br/><br/>
+
+📅 [Aquest repte és part del calendari](/calendari/)

@@ -35,3 +35,8 @@ Una forma d'aconseguir que tota la família s'impliqui és crear i repetir unes 
  - "El telèfon al parking."
  - "Apaga el motor quan aparquis."
  - "No telèfons a taula."
+
+
+<br/><br/><br/>
+
+📅 [Aquest repte és part del calendari](/calendari/)

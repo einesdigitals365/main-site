@@ -13,3 +13,8 @@ El repte, no només consisteix en instal.lar un telèfon fixe a casa, sino en re
 - **ÀMBIT:** domèstic, familiar i comunitari
 
 Aquest repte forma part del microsite [{{ site.microsite.xarxafixa.title }}]({{ site.microsite.xarxafixa.url }}/telefon_fixe.html). Al microsite hi podeu trobar més informació sobre com dur-lo a terme i algunes activitats per ajudar-vos a recuperar l'hàbit d'usar el telèfon fixe. 
+
+
+<br/><br/><br/>
+
+📅 [Aquest repte és part del calendari](/calendari/)

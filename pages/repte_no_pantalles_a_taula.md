@@ -14,3 +14,8 @@ Aquerst repte proposa a les famílies establir la regla de no usar pantalles dur
 
 1. Presenteu el repte a la família i expliqueu que durant un mes s'establirà la regla de no usar pantalles durant els àpats familiars. Expliqueu que els infants també poden fer complir la norma.
 2. Definiu què es considera un àpat familiar (per exemple, l'esmorzar, el sopar, el dinar del diumenge, etc.), o bé què és pantalla (per exemple, smartwatch, telèfons mòbils, televisió, tauletes, etc.).
+
+
+<br/><br/><br/>
+
+📅 [Aquest repte és part del calendari](/calendari/)

@@ -29,3 +29,8 @@ Per exemple, podeu començar per a no usar el mòbil com a despertador, i un cop
 ## Ampliació del repte
 
 Una vegada hagueu realitzat el repte, amplieu-lo per a eliminar altres usos del mòbil. Per exemple, podeu eliminar l'ús de les plataformes de streaming o de música. També podeu reemplaçar l'ús d'internet per a buscar informació per a fer les tasques escolars per a buscar informació en llibres o anar a la biblioteca.
+
+
+<br/><br/><br/>
+
+📅 [Aquest repte és part del calendari](/calendari/)

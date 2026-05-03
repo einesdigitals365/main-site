@@ -25,3 +25,8 @@ Inspirat en el repte d'[OFF-February](https://www.offm.org/off-february), aquest
 
 Per als participants que participen en la modalitat de `FÀCIL: Reduir el temps total dedicat a totes les xarxes socials`, podeu consultar la nostra guia d'eines de [Gestió del Temps de Pantalla](../gestio_temps_pantalla) per a ajudar-vos a monitoritzar i limitar l'ús de xarxes socials.
 
+
+
+<br/><br/><br/>
+
+📅 [Aquest repte és part del calendari](/calendari/)
