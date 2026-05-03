@@ -26,3 +26,8 @@ El repte consisteix en sortir de casa sense el telèfon mòbil.
 ## Agraïments
 
 Agraïments a en Roger Ferrer de [L'assessoria 1Segon](https://1segon.cat/) de Sant Cugat per a presentar-nos el terme *nomphobia*.
+
+
+<br/><br/><br/>
+
+📅 [Aquest repte és part del calendari](/calendari/)

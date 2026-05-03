@@ -13,3 +13,8 @@ El repte més complexe de tots. Aquest repte implica a diverses famílies i come
 Aquest repte consisteix en teixir una xarxa entre familias i comerços locals. Crear un vincle amb els comerços del barri. El repte proposa que les famílies es posin en contacte amb els comerços del barri i els proposin formar part d'una xarxa de Comerç Amic en la qual els infants puguin comptar amb els comerços en cas que necessitn trucar o demanar ajuda.
 
 Aquest repte forma part del microsite [{{ site.microsite.xarxafixa.title }}]({{ site.microsite.xarxafixa.url }}/telefon_fixe.html). Al microsite hi podeu trobar més informació sobre com dur-lo a terme i alguns recursos i propostes per tal d'aconseguir completar-lo amb èxit.
+
+
+<br/><br/><br/>
+
+📅 [Aquest repte és part del calendari](/calendari/)

@@ -34,3 +34,8 @@ En futures edicions, es podria realitzar un exercici similar amb l'aigua o bé a
 # Impacte
 
 Aquest repte pretén millorar la resiliència dels infants davant d'una situació imprevista. També esperonarà als infants a entendre com funciona el món que els envolta.
+
+
+<br/><br/><br/>
+
+📅 [Aquest repte és part del calendari](/calendari/)
